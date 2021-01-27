@@ -1,7 +1,9 @@
-<div style="text-align: center;">
-<h2 style="margin: 0;">Hi, I'm Stephen</h2>
-<small>Junior Full-Stack Developer</small><br />
-<small>Portland, OR</small>
+<div>
+<h2 style="margin: 0; text-align: center;">Hi, I'm Stephen</h2>
+<p style="text-align: center;">
+    <small>Junior Full-Stack Developer</small><br />
+    <small >Portland, OR</small>
+</p>
 </div>
 
 <h4>About Me</h4>
