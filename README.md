@@ -1,5 +1,5 @@
 <div style="text-align: center;">
-<h1 style="margin: 0;">Hi, I'm Stephen</h1>
+<h2 style="margin: 0;">Hi, I'm Stephen</h2>
 <small>Junior Full-Stack Developer</small><br />
 <small>Portland, OR</small>
 </div>
