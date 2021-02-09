@@ -17,8 +17,8 @@
 <small><em>(In order of usage)</em></small>
 <hr style="background: #000;">
 <ul style="margin-bottom: 50px">
-    <li>CSS (SASS & LESS)</li>
     <li>PHP (Drupal 7 & 8, and Laravel)</li>
+    <li>CSS (SASS & LESS)</li>
     <li>JavaScript</li>
     <li>React</li>
     <li>HTML</li>
