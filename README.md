@@ -9,7 +9,7 @@
 <h4>About Me</h4>
 <hr style="background: #000;">
 <ul style="margin-bottom: 50px">
-    <li>Junior Full-Stack Developer @ <a href="https://helloworlddevs.com">Hello World</a></li>
+    <li>Junior Full-Stack Developer @ <a href="https://go.helloworlddevs.com">Hello World</a></li>
     <li>Avid <a href="https://maestus.bandcamp.com/">musician</a> and <a href="https://open.spotify.com/user/parkhum123?si=MxGhA8BPTNmZOVUiHxGgEQ">music listener</a></li>
     <li>Portland, OR resident</li>
     <li>Plant-based</li>
