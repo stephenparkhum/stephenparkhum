@@ -5,11 +5,12 @@
 - Plant-based 🌱 
 
 ### Current Knowledge/Stack
-- PHP 
-- CSS
-- JavaScript
-- React 
+- React / React Native
+- JavaScript / TypeScript
+- NodeJS
+- PHP (Drupal {7,8,9}, Wordpress)
 - HTML
+- CSS / SCSS
 
 ### Stalk Me
 
