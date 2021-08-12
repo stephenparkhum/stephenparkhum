@@ -4,13 +4,13 @@
 - Portland, OR 🌲 
 - Plant-based 🌱 
 
-### Current Knowledge/Stack
+### Current Working Stack
 - React / React Native
 - JavaScript / TypeScript
-- NodeJS
-- PHP (Drupal {7,8,9}, Wordpress)
-- HTML
+- PHP (Laravel, WordPress, Drupal {7, 8, 9})
+- HTML5
 - CSS / SCSS
+- NodeJS
 
 ### Social Media Stuffs
 
