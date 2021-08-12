@@ -12,7 +12,7 @@
 - HTML
 - CSS / SCSS
 
-### Stalk Me
+### Social Media Stuffs
 
 [![instagram](https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=Instagram&logoColor=#E4405F)](https://instagram.com/stephenparkhum) [![twitter](https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=Twitter&logoColor=#1DA1F2)](https://twiter.com/tittlemanscrest)
 
