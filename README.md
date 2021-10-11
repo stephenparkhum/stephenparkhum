@@ -1,5 +1,5 @@
 ### About Me
-- Full-Stack Web Developer 👨‍💻 
+- Full-Stack Software Engineer 👨‍💻 
 - Avid [musician](https://maestus.bandcamp.com) and [music listener](https://open.spotify.com/user/parkhum123?si=MxGhA8BPTNmZOVUiHxGgEQ) 🎶 
 - Portland, OR 🌲 
 - Plant-based 🌱 
