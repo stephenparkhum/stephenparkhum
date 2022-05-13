@@ -8,10 +8,9 @@
 ### Current Working Stack
 - React / React Native
 - JavaScript / TypeScript
-- HTML
 - CSS / SCSS
 - NodeJS
-- PHP (Laravel, WordPress, Drupal {7, 8})
+- HTML
 
 ### Social Media Stuffs
 
