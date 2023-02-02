@@ -2,7 +2,7 @@
 ### About Me
 ---
 - Full-Stack Software Engineer 👨‍💻 
-- Pacific Northwest, USA 🌲 
+- PNW, USA 🌲 
 - Always caffeinated ☕️
 - Plant-based 🌱 
 - [Dev Site](https://sparker.work)
