@@ -1,7 +1,7 @@
 ---
 ### About Me
 ---
-- Full-Stack Software Engineer (70% frontend / 30% backend) 👨‍💻 
+- Full-Stack Software Engineer 👨‍💻 
 - PNW, USA 🌲 
 - Always caffeinated ☕️
 - Plant-based 🌱 
