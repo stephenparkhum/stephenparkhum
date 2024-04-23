@@ -4,8 +4,6 @@
 - Full-Stack Software Engineer 👨‍💻 
 - PNW, USA 🌲 
 - Always caffeinated ☕️
-- Plant-based 🌱 
-- [Dev Site](https://sparker.work)
 - Avid musician && music listener. 🎶 
 
 
